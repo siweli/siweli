@@ -5,4 +5,4 @@ I mainly code in Python and tackle any problem first with Python but would like 
 
 You can reach me via email: (siwelyt3@gmail.com)
 
-Or via Discord: siwelo
+Or via Discord: siweli
